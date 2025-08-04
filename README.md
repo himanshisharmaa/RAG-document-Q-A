@@ -40,9 +40,4 @@ This project builds a Retrieval-Augmented Generation (RAG) system using Llama3-8
 5. Run the app:
    streamlit run abhi.py
 
-
-
-
-ba
-
 5. 
